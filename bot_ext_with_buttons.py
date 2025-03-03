@@ -5,7 +5,7 @@ import threading
 import random
 from telebot import types
 
-bot = t.TeleBot("7787729459:AAG-KkVnwGVy5cw_VsNMposKkyeI-2MUjNw")
+bot = t.TeleBot("your-bot-token")
 user_data = {}
 res = 2 / 3
 
