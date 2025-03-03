@@ -4,7 +4,7 @@ import time
 import threading
 import random
 
-bot = telebot.TeleBot("7787729459:AAG-KkVnwGVy5cw_VsNMposKkyeI-2MUjNw")
+bot = telebot.TeleBot("your-bot-token")
 
 
 @bot.message_handler(commands=["start"])
